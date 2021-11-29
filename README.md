@@ -29,3 +29,5 @@ Deploy your application. Commit your code to the repository and deploy it to Her
 $ git add .  
 $ git commit -am "make it better"  
 $ git push heroku master  
+  
+Disable collect static if compilation fails
